@@ -26,4 +26,11 @@
         permission="zope2.View"
         />
 
+    <browser:page
+        name="collective.tinymcetemplates.gettext"
+        for="*"
+        class=".browser.GetText"
+        permission="zope2.View"
+        />
+
 </configure>

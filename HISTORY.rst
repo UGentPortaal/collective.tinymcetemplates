@@ -6,6 +6,8 @@ unreleased
 
 * Fixed Plone 3 compatibility in some imports. [sneridagh]
 
+* Fix issues with missing method getText (PCM-586) [bvderbau]
+
 1.0b3 - 2010-07-31
 ------------------
 
@@ -20,4 +22,3 @@ unreleased
 ------------------
 
 * Initial release
-
