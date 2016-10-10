@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.0b6ugent (unreleased)
+-----------------------
+
+- Nothing changed yet.
+
+
 1.0b5ugent (2016-10-10)
 -----------------------
 
