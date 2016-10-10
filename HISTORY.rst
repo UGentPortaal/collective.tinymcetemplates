@@ -1,8 +1,8 @@
 Changelog
 =========
 
-unreleased
-----------
+1.0b5ugent (2016-10-10)
+-----------------------
 
 * Fixed Plone 3 compatibility in some imports. [sneridagh]
 
